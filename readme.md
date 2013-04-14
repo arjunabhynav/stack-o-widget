@@ -2,6 +2,7 @@ Stack Overflow Activity Feed Widget
 ===================================
 
 *Contributors: arjunabhynav*
+
 *Tags: widget, stack overflow, activity, activity feed, stack overflow feed, stack overflow activity, stack overflow widget*
 *Requires at least: 2.9.2*
 *Tested up to: 3.5*
