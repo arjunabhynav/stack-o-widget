@@ -4,11 +4,11 @@ Stack Overflow Activity Feed Widget
 *Author: Arjun Abhynav*  
 *Contact: arjun.abhynav@gmail.com*  
 *Website: http://arjunabhynav.com*  
-*Twitter: @arjunabhynav* 
+*Twitter: @arjunabhynav*  
 *Contributors: arjunabhynav*  
 *Tags: widget, stack overflow, activity, activity feed, stack overflow feed, stack overflow activity, stack overflow widget*  
 *Requires at least: 2.9.2*  
-*Tested up to: 3.5* 
+*Tested up to: 3.5*  
 *Stable tag: 1.0*  
 *License: GPLv2 or later*  
 *License URI: http://www.gnu.org/licenses/gpl-2.0.html*  
