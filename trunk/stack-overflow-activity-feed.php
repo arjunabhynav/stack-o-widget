@@ -63,8 +63,8 @@ class StackOverflowActivityWidget extends WP_Widget
         else if($maxFeedItems > 30)
             $maxFeedItems = 30;
 			
-		/* Form input elements for the widget configuration
-		 * To be shown on WordPress Widgets Dashboard */
+        /* Form input elements for the widget configuration
+         * To be shown on WordPress Widgets Dashboard */
 ?>
         <p>
           <label for="<?php echo $this->get_field_id('title'); ?>">
@@ -177,7 +177,7 @@ class StackOverflowActivityWidget extends WP_Widget
             echo '</ul>';
         }
 
-		echo $after_widget;
+        echo $after_widget;
     }
 
 }
